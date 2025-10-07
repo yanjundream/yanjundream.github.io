@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Spotlight Results ☕️
-        content: ' **Coni-MPC/OA allow aerial robots realize high-performance cooperation without relying on GPS/SLAM/infrastructures.**
+      - title: Spotlight Results
+        content: 'Coni-MPC/OA allow aerial robots realize high-performance cooperation without relying on GPS/SLAM/infrastructures.
         align: left
         background:
           image:
