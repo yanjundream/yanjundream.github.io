@@ -19,15 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Spotlight Results ☕️
-        content: '- Coni-MPC/OA allow aerial robots realize high-performance cooperation without relying on GPS/SLAM/infrastructures.
-  
-- CREPES provides accurate, robust, high-frequency instant 6DOF relative pose estimation for multi-robot systems.
-  
-- TrofyBot realizes high-energy efficiency and won the ICRA2025 Best Paper Finalist/Best Locomotion/Manipulation Paper Finalist.
-  
-- DDR-Planner shows a general high-quality planning framework for the differential driven robot class.
-  
-- COVER system shows flexible air-ground cooperation for cross-vehicle tasks.'
+        content: ' **Coni-MPC/OA allow aerial robots realize high-performance cooperation without relying on GPS/SLAM/infrastructures.**
         align: left
         background:
           image:
