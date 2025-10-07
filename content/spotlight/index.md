@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: CREPES
+      - title: CREPES-X
         content: 'CREPES provides accurate, robust, high-frequency 6DOF relative pose estimation for multi-robot systems ——— Zhehan Li'
         align: center
         background:
