@@ -8,6 +8,16 @@ sections:
   - block: slider
     content:
       slides:
+      - title: CREPES
+        content: 'CREPES provides accurate, robust, high-frequency 6DOF relative pose estimation for multi-robot systems ——— Zhehan Li'
+        align: center
+        background:
+          image:
+            filename: crepes.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Coni-MPC/OA
         content: 'Coni-MPC/OA allow aerial robots to realize high-performance cooperation without relying on GPS/SLAM/infrastructures  ——— Baozhe Zhang'
         align: center
@@ -44,16 +54,6 @@ sections:
         background:
           image:
             filename: cover.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: CREPES
-        content: 'CREPES provides accurate, robust, high-frequency 6DOF relative pose estimation for multi-robot systems ——— Zhehan Li'
-        align: center
-        background:
-          image:
-            filename: crepes.jpg
             filters:
               brightness: 0.7
           position: right
