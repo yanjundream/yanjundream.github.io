@@ -3,15 +3,19 @@
 title:
 date: 2022-10-24
 type: landing
+view: compact
 
 sections:
-  - block: hero
+  - block:
     content:
       title:
-        Center of Swarm Navigation
       text: 
         <br>
-        Welcome to the **Center of Swarm Navigation( CSN)** at Huzhou Institute of Zhejiang University. We are also the **Field Intelligent Robotics Engineering (FIRE)** group of the Field Autonomous System and Computing Lab (FAST Lab). Our mission is to create fully intelligent robot teams that capable of operating in complex and diverse environments to tackle real-world challenges. We are fascinated by novel robotic concepts and excited by pushing the robots' potential and showing exceptional capabilities, including mechanical and mechatronic design, advanced control and optimization, intelligent localization and planning, working on real-world tasks from scratch. More specifically, our research covers multi-robot cooperation, novel robot platforms, and autonomous navigation. We also have a spin-off company dedicated to accelerating the translation of our research achievements into the commercial market, solving real-world tasks, and completing the R&D cycle.
+       Welcome to the **Center of Swarm Navigation(CSN)** at **Huzhou Institute of Zhejiang University**. We are also the **Field Intelligent Robotics Engineering (FIRE)** group of the **Field Autonomous System and Computing Lab (FAST Lab)**. Our mission is to create fully intelligent robot teams that are capable of operating in complex and diverse environments to tackle real-world challenges. We are fascinated by novel robotic concepts and excited about pushing the boundaries of robotics' potential to demonstrate remarkable capabilities. More specifically, our research interests cover multi-robot cooperation, novel robot platforms, and autonomous navigation. We also have a spin-off company dedicated to accelerating the translation of our research achievements into the commercial market, solving real-world tasks, and completing the R&D cycle.
+      design:
+        view: card
+        columns: '1'
+
 
   - block: collection
     content:
@@ -30,7 +34,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
@@ -52,18 +56,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
