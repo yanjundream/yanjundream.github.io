@@ -59,7 +59,7 @@ sections:
           position: right
           color: '#666'
       - title: 👋 Welcome to join our group
-        content: 'We are highly looking for taltented, hardwarking, responsibility to join our group'
+        content: 'We are eagerly seeking self-motivated, creative, hardworking students to join our research team.'
         align: right
         background:
           image:

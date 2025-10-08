@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: 👋 Welcome to join our group
-        content: 'We are highly looking for taltented, hardwarking, responsibility to join our spin-off company'
+        content: 'We are looking for motivated, hardworking, and responsible people to join our spin-off company.'
         align: right
         background:
           image:
