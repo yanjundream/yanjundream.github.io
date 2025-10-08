@@ -1,9 +1,12 @@
 ---
-title: Congratulations that our IROS EXPO proposal is accepted
+title: CREPES
 date: 2025-10-06
 author: Alice Wu 吳恩達
 image:
   focal_point: 'top'
+
+tags: [AutoNav]
+
 ---
 
 Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
