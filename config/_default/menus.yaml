@@ -13,12 +13,9 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Research
-    url: research
+  - name: Groups
+    url: groups
     weight: 40
   - name: Publications
     url: publication
     weight: 50
-  - name: Robots
-    url: robots
-    weight: 60

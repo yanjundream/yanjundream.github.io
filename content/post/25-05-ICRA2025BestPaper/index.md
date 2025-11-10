@@ -5,12 +5,36 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to Mingwei Lai and Yuqian Ye for winning the Best Paper Award Finalist at 2025 IEEE International Conference on Robotics and Automation for their novel design of “TrofyBot”.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Terrestrial and aerial bimodal vehicles have
+gained significant interest due to their energy efficiency and
+versatile maneuverability across different domains. However,
+most existing passive-wheeled bimodal vehicles rely on attitude
+regulation to generate forward thrust, which inevitably results
+in energy waste on producing lifting force. In this work,
+we propose a novel passive-wheeled bimodal vehicle called
+TrofyBot that can rapidly change the thrust direction with a
+single servo motor and a transformable parallelogram linkage
+mechanism (TPLM). Cooperating with a bidirectional force
+generation module (BFGM) for motors to produce bidirectional
+thrust, the robot achieves flexible mobility as a differential
+driven rover on the ground. This design achieves 95.37%
+energy saving efficiency in terrestrial locomotion, allowing the
+robot continuously move on the ground for more than two
+hours in current setup. Furthermore, the design obviates the
+need for attitude regulation and therefore provides a stable
+sensor field of view (FoV). We model the bimodal dynamics
+for the system, analyze its differential flatness property, and
+design a controller based on hybrid model predictive control
+for trajectory tracking. A prototype is built and extensive
+experiments are conducted to verify the design and the proposed
+controller, which achieves high energy efficiency and seamless
+transition between modes.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+As the world’s top robotics conference, ICRA 2025 (hosted by the IEEE Robotics and Automation Society) drew thousands of global experts, focusing on AI-driven robotics, human-robot interaction, and sustainable automation. Lai’s paper stood out among hundreds of submissions, selected via rigorous peer review for technical excellence, originality, and impact on robotics advancement.​
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+
+

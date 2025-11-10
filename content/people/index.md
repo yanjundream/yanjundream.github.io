@@ -11,7 +11,8 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
+          - Founder
+          - Professors
           - Researchers
           - Grad Students
           - Engineers
@@ -29,8 +30,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to join our group
-        content: We are eagerly seeking self-motivated, creative, hardworking people to join our team.
+      - title: 👋 Welcome to join FAST Lab
+        content: 
         align: right
         background:
           image:
